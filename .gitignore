@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Model checkpoints
+*.pth.tar
+*.model
+
+# Image files (except assets/)
+*.png
+!assets/*.png
+
+# Output
+*.json
+output-sequence/*
+checkpoint/*
+input-sequence/*
+
+# IDE
+.codebuddy/

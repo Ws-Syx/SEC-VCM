@@ -1,0 +1,7 @@
+torch>=2.0.0
+torchvision
+numpy>=1.20.0
+pillow
+pytorch-msssim==0.2.0
+lpips
+tqdm
